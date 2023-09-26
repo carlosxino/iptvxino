@@ -6,8 +6,6 @@ http://200.24.204.242:6020/play/a085/index.m3u8
 http://200.24.204.242:6020/play/a08a/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://138.59.177.34:8000/play/a074/index.m3u8
-#EXTINF:-1,National Geographic
-http://138.59.177.34:8000/play/a02f/index.m3u8
 #EXTINF:-1,Paramount HD
 http://138.59.177.34:8000/play/a075/index.m3u8
 #EXTINF:-1,SONY HD
