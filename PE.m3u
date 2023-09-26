@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-name="LATINA",LATINA
+#EXTINF:-1, tvg-id="LATINA", LATINA
 http://200.24.204.242:6020/play/a085/index.m3u8
 #EXTINF:-1,TV PERU
 http://200.24.204.242:6020/play/a08a/index.m3u8
